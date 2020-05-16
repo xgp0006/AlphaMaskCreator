@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+AlphaMaskCreator/Library
+AlphaMaskCreator/ProjectSettings
+AlphaMaskCreator/Logs
+AlphaMaskCreator/obj
+AlphaMaskCreator/Packages
+*.sln
+*.csproj
